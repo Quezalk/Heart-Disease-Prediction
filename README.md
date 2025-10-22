@@ -23,7 +23,7 @@ Predicting 10-year risk of coronary heart disease (EDA + modeling).
 2. Feature Engineering 🔄  
 3. Predictive Modeling (Logistic Regression, Random Forest, XGBoost, etc.)  
 4. Model Evaluation  
-5. Deployment (optional, Streamlit or Flask)  
+5. Deployment (Streamlit or Flask)  
 
 ---
 
